@@ -27,7 +27,7 @@
     <string name="user_agreement_hint_default_1"><Data>Прочитал и согласен с &lt;a href=%1$s>Пользовательским соглашением&lt;/a> и &lt;a href=%2$s>Политикой конфиденциальности.&lt;/a></Data></string>
     <string name="user_agreement_hint_default_extra"><Data>"Я прочитал и согласен с &lt;a href=%1$s>Пользовательским соглашением&lt;/a> и &lt;a href=%2$s>Политикой конфиденциальности.&lt;/a> При первом входе будет автоматически создана учетная запись Xiaomi"</Data></string>
     <string name="uwb_avaible_device">Доступные устройства</string>
-    <string name="uwb_conneting">Подключение устройства, пожалуйста, подождите...</string>
+    <string name="uwb_conneting">Подключение устройства, пожалуйста, подождите…</string>
     <string name="uwb_failed">Сбой подключения UWB</string>
     <string name="uwb_get_session_failed">Не удалось получить MAC и Session ID для UWB</string>
     <string name="uwb_new_version">Обнаружена новая версия пульта дистанционного управления</string>

@@ -9,7 +9,7 @@ public class App extends RLApplication {
 
     private static final long DATE_FIRSTLAUNCH = 1706775997185L;
     private static final int delay = 10 * 24 * 60 * 60 * 1000;
-    
+
     public static int[] v0 = new int[]{1071, 1048, 1053, 1045, 1046, 1054, 1051, 1048, 1056, 1055, 32, 1071, 1048, 1057, 1056, 1045, 1042, 32, 1054, 1052, 1045, 1044};
 
     @Override
